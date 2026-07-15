@@ -1,4 +1,3 @@
-# ML-Models
 # Machine Learning Models
 
 A collection of machine learning models I build while learning ML. Each project documents my experiments, mistakes, and learnings.
