@@ -2,7 +2,7 @@
 
 A collection of machine learning models I build while learning ML. Each project documents my experiments, mistakes, and learnings.
 
-## 1. Linear Regression — Used Car Price Prediction
+## 1. Linear Regression — Used Car Price Prediction on Car Dekho.com Data 
 Built a Linear Regression model to predict used car prices.
 ### Key Learning
 An initial model achieved an unrealistically high R² score due to **data leakage**. After identifying and removing the leakage, the model was retrained with appropriate features.
